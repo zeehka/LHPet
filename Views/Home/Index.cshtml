@@ -21,9 +21,9 @@
                     @foreach (var item in @ViewBag.listaClientes)
                     {                    
                     <tr>
-                        <th scope="row">@item.id</th>
+                        <th scope="row">@item.Id</th>
                         <td>@item.Nome</td>
-                        <td>@item.Cpf</td>
+                        <td>@item.CPF</td>
                         <td>@item.Email</td>
                         <td>@item.Paciente</td>
                     </tr>
@@ -46,7 +46,7 @@
                     @foreach (var item in @ViewBag.listaFornecedores)
                     {
                     <tr>
-                        <th scope="row">@item.id</th>
+                        <th scope="row">@item.Id</th>
                         <td>@item.Nome</td>
                         <td>@item.Cnpj</td>
                         <td>@item.Email</td>
