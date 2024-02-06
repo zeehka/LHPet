@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Meu Drive\\Senai - Programação\\10.Codificação para Back-End\\Clinica veterinária - 2\\LHPet\\LHPet.csproj",
+      "projectUniqueName": "G:\\Meu Drive\\Senai - Programação\\10.Codificação para Back-End\\Clinica veterinária - 2\\LHPet_2\\LHPet.csproj",
       "projectName": "LHPet",
-      "projectPath": "G:\\Meu Drive\\Senai - Programação\\10.Codificação para Back-End\\Clinica veterinária - 2\\LHPet\\LHPet.csproj",
+      "projectPath": "G:\\Meu Drive\\Senai - Programação\\10.Codificação para Back-End\\Clinica veterinária - 2\\LHPet_2\\LHPet.csproj",
       "packagesPath": "C:\\Users\\Tramontina\\.nuget\\packages\\",
-      "outputPath": "G:\\Meu Drive\\Senai - Programação\\10.Codificação para Back-End\\Clinica veterinária - 2\\LHPet\\obj\\",
+      "outputPath": "G:\\Meu Drive\\Senai - Programação\\10.Codificação para Back-End\\Clinica veterinária - 2\\LHPet_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tramontina\\AppData\\Roaming\\NuGet\\NuGet.Config",

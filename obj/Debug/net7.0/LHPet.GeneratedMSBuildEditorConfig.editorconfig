@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LHPet
 build_property.RootNamespace = LHPet
-build_property.ProjectDir = G:\Meu Drive\Senai - Programação\10.Codificação para Back-End\Clinica veterinária - 2\LHPet\
+build_property.ProjectDir = G:\Meu Drive\Senai - Programação\10.Codificação para Back-End\Clinica veterinária - 2\LHPet_2\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = G:\Meu Drive\Senai - Programação\10.Codificação para Back-End\Clinica veterinária - 2\LHPet
+build_property.MSBuildProjectDirectory = G:\Meu Drive\Senai - Programação\10.Codificação para Back-End\Clinica veterinária - 2\LHPet_2
 build_property._RazorSourceGeneratorDebug = 
 
-[G:/Meu Drive/Senai - Programação/10.Codificação para Back-End/Clinica veterinária - 2/LHPet/Views/Home/Index.cshtml]
+[G:/Meu Drive/Senai - Programação/10.Codificação para Back-End/Clinica veterinária - 2/LHPet_2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/Meu Drive/Senai - Programação/10.Codificação para Back-End/Clinica veterinária - 2/LHPet/Views/Home/Privacy.cshtml]
+[G:/Meu Drive/Senai - Programação/10.Codificação para Back-End/Clinica veterinária - 2/LHPet_2/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/Meu Drive/Senai - Programação/10.Codificação para Back-End/Clinica veterinária - 2/LHPet/Views/Shared/Error.cshtml]
+[G:/Meu Drive/Senai - Programação/10.Codificação para Back-End/Clinica veterinária - 2/LHPet_2/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/Meu Drive/Senai - Programação/10.Codificação para Back-End/Clinica veterinária - 2/LHPet/Views/Shared/_ValidationScriptsPartial.cshtml]
+[G:/Meu Drive/Senai - Programação/10.Codificação para Back-End/Clinica veterinária - 2/LHPet_2/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/Meu Drive/Senai - Programação/10.Codificação para Back-End/Clinica veterinária - 2/LHPet/Views/_ViewImports.cshtml]
+[G:/Meu Drive/Senai - Programação/10.Codificação para Back-End/Clinica veterinária - 2/LHPet_2/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/Meu Drive/Senai - Programação/10.Codificação para Back-End/Clinica veterinária - 2/LHPet/Views/_ViewStart.cshtml]
+[G:/Meu Drive/Senai - Programação/10.Codificação para Back-End/Clinica veterinária - 2/LHPet_2/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/Meu Drive/Senai - Programação/10.Codificação para Back-End/Clinica veterinária - 2/LHPet/Views/Shared/_Layout.cshtml]
+[G:/Meu Drive/Senai - Programação/10.Codificação para Back-End/Clinica veterinária - 2/LHPet_2/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-00y05jfcx1
